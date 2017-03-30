@@ -23,7 +23,7 @@ namespace BlackJack
             button1.Visible = true; // jako button on näkyvä
             button2.Visible = false; // löynti buttoni on piilotettu
             button3.Visible = false; // jää buttoni on piilotettu
-            pictureBox1.Visible = true; // näyttää ensimmäisen kortin paikan
+            pictureBox1.Visible = true; // näyttää ensimmäisen kortin paikann
             PictureBox2.Visible = false; // näytetään toinen kortti
             pictureBox3.visible = false; // piilotetaan loput
             pictureBox4.visible = false; // piilotetaan loput
